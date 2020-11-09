@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: #973d37;
+    font-size: 2em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-bottom: 1rem solid #379747;
+}
+
+div {
+    font-family: cursive;
+}
+
+h2 {
+    font-size: 1.5em;
+    border-top: solid #0085C9;
+    font-style: oblique;
+}
+
+.job-title {
+    color: #999999;
+    font-weight: bold;
+}
+
+a:link {
+    color:blue;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    text-decoration: none;
+    color: rgb(255, 251, 0);
+}
+
+p {
+    font-size: 1.2rem;
+}
+
+li {
+    font-size: 1.1rem;
+    margin: 0.2em;
+}
+
+ul {
+    background-color: #cccccc;
+    border: 10px solid #cc877a;
+}
